@@ -6,3 +6,6 @@ Modelo de plantilla utilizada en Prometeo
 - assets:
 >  Carpeta con la hoja de estilos principal y recursos de distintos tipos  en la carpeta resourses (assets/resourses), por ejemplo graficos como inagenes, vectores, svg, etc.
 
+- components:
+>  Carpeta con la hoja de estilos principal y recursos de distintos tipos  en la carpeta resourses (assets/resourses), por ejemplo graficos como inagenes, vectores, svg, etc.
+
